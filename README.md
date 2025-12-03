@@ -1,4 +1,4 @@
-# Hi, I'm Woojin 👋
+# Hi, I'm Woojin Jung 👋
 
 
 ## 🔥 Featured Projects
