@@ -25,7 +25,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-v8-blue?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-Series-blue?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![NVIDIA Jetson Orin](https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat&logo=nvidia&logoColor=white)
