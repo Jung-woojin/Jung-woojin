@@ -2,13 +2,15 @@
 
 
 ## 🔥 Featured Projects
+
+- **CNN-From-Scratch-With-PyTorch**  
+  PyTorch로 CNN 직접 구현/학습 기록  
+  👉 https://github.com/Jung-woojin/CNN-From-Scratch-With-PyTorch
+
 - **manim-theory-lab**  
   CNN/ERF/수학적 아이디어를 애니메이션으로 검증하는 레포  
   👉 https://github.com/Jung-woojin/manim-theory-lab
 
-- **CNN-From-Scratch-With-PyTorch**  
-  PyTorch로 CNN 직접 구현/학습 기록  
-  👉 (레포 링크)
 
 ## 🛠 Tech Stack
 
