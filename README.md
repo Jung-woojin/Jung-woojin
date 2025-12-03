@@ -35,7 +35,7 @@
 
 ## 📌 About Me
 - 관심: CNN 구조, ERF, 효율적 커널/보틀넥 설계, 시각화
-- 목표: "이론이 실제로 어떻게 보이는지" 애니메이션으로 증명하기
+- 목표: 나만의 Object Detection 모델 설계
 
 ## 📫 Contact
 - Email: wojin010629@gmail.com
