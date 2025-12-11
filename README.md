@@ -11,7 +11,7 @@
   DL, 신호처리의 수학적 모델링을 애니메이션으로 검증하는 레포   
   👉 https://github.com/Jung-woojin/manim-theory-lab  
   
-- **object-detection-notes**
+- **object-detection-notes**  
   Object Detection 알고리즘 공부(코드 구현 및 논문 해석)하는 레포  
   👉 https://github.com/Jung-woojin/object-detection-notes  
   
