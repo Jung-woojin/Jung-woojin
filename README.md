@@ -14,6 +14,12 @@
 - **object-detection-notes**  
   Object Detection 알고리즘 공부(코드 구현 및 논문 해석)하는 레포  
   👉 https://github.com/Jung-woojin/object-detection-notes  
+
+
+- **signal-aware-convolutions** *(ongoing)*  
+  A research-oriented repository that studies convolution filters
+  (wavelet-based, dilated, multi-rate convolutions) from a signal processing viewpoint.  
+  Focused on aliasing, energy preservation, and multi-scale representations in CNNs.
   
 ## 🛠 Tech Stack
 
