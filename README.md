@@ -17,7 +17,7 @@
 
 
 - **signal-aware-convolutions**  
-  컨볼루션 필터 종류 분석 및 개발
+  컨볼루션 필터 종류 분석 및 개발하는 레포
   
 ## 🛠 Tech Stack
 
