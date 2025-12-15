@@ -16,10 +16,8 @@
   👉 https://github.com/Jung-woojin/object-detection-notes  
 
 
-- **signal-aware-convolutions** *(ongoing)*  
-  A research-oriented repository that studies convolution filters
-  (wavelet-based, dilated, multi-rate convolutions) from a signal processing viewpoint.  
-  Focused on aliasing, energy preservation, and multi-scale representations in CNNs.
+- **signal-aware-convolutions**
+  컨볼루션 필터 종류 분석 및 개발
   
 ## 🛠 Tech Stack
 
