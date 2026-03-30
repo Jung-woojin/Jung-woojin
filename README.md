@@ -135,9 +135,6 @@
 
 [![Email](https://img.shields.io/badge/Email-wojin010629@gmail.com-2A629F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wojin010629@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jung--woojin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jung-woojin)
-
-[![Discord](https://img.shields.io/badge/Discord-Jung--woojin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Jung--woojin)
 
 ---
 
