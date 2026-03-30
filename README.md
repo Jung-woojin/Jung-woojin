@@ -76,17 +76,12 @@
 ### 📦 Languages & Tools
 
    <div align="left">                                                                                                                                    
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />                                            
-     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />                                          
-     <img src="https://img.shields.io/badge/OpenCV-5C3DDD?style=for-the-badge&logo=OpenCV&logoColor=white" />                                            
-     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />                                              
-     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />                                                  
-     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />                                            
-     <img src="https://img.shields.io/badge/YOLO-Series-blue?style=for-the-badge&logo=ultralytics&logoColor=white" />                                    
-     <img src="https://img.shields.io/badge/Manim-F97E31?style=for-the-badge&logo=manim&logoColor=white" />                                              
-     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />                                          
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />                                         
+     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />                                        
+     <img src="https://img.shields.io/badge/OpenCV-5C3DDD?style=for-the-badge&logo=OpenCV&logoColor=white" />                                                                                                             
+     <img src="https://img.shields.io/badge/YOLO-Series-blue?style=for-the-badge&logo=ultralytics&logoColor=white" />                                                    
      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />                                              
-     <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />                                       
+     <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />                                       
    </div>  
 
 ---
