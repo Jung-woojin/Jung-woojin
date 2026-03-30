@@ -5,7 +5,7 @@
 ### 🔬 Computer Vision Researcher & AI Engineer
 **Focus**: Object Detection, CNN Architecture Design, Signal-Aware Convolutions
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jung-woojin&show_icons=true&theme=radical&hide_border=true)](https://github.com/Jung-woojin)
+
 
 ---
 
@@ -17,7 +17,7 @@
 |:---|:---|:---|
 | **[object-detection-notes](https://github.com/Jung-woojin/object-detection-notes)** | Complete notes on object detection: YOLO series, DETR variants, IoU variants, Loss functions | 📚 5 repos |
 | **[YOLOv8-detailed-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/yolov8-detailed-analysis.md)** | Deep dive into YOLOv8 architecture and optimization | 🚀 One-stage |
-| **[DETR-family-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/detr-family-analysis.md)** | Comprehensive analysis of DETR, Deformable DETR, DINO, RT-DETR | 🧠 Transformer |
+| **[DETR-family-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/detr-family-analysis.md)** | Comprehensive analysis of DETR, DINO, RT-DETR | 🧠 Transformer |
 
 ### 🧠 Deep Learning Architectures
 
