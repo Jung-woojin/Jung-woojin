@@ -5,7 +5,7 @@
 ### 🔬 Computer Vision Researcher & AI Engineer
 **Focus**: Object Detection, CNN Architecture Design, Signal-Aware Convolutions
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jung-woojin&show_icons=true&theme=radical&hide_border=true)](https://github.com/Jung-woojin)
+
 
 ---
 
