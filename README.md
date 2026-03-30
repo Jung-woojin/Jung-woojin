@@ -175,11 +175,3 @@ If you find my work helpful:
 - 📧 **Contact** for collaboration
 
 ---
-
-<div align="left">
-
-**Built with ❤️ for Computer Vision & Deep Learning**
-
-*Last Updated: March 2026*
-
-</div>
