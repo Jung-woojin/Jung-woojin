@@ -14,7 +14,7 @@
 ### 🎯 Object Detection
 
 | Project | Description | Stats |
-|:---|:---|:---:|
+|:---|:---|:---|
 | **[object-detection-notes](https://github.com/Jung-woojin/object-detection-notes)** | Complete notes on object detection: YOLO series, DETR variants, IoU variants, Loss functions | 📚 5 repos |
 | **[YOLOv8-detailed-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/yolov8-detailed-analysis.md)** | Deep dive into YOLOv8 architecture and optimization | 🚀 One-stage |
 | **[DETR-family-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/detr-family-analysis.md)** | Comprehensive analysis of DETR, DINO, RT-DETR | 🧠 Transformer |
@@ -22,7 +22,7 @@
 ### 🧠 Deep Learning Architectures
 
 | Project | Description | Focus |
-|:---|:---|:---:|
+|:---|:---|:---|
 | **[CNN-From-Scratch-With-PyTorch](https://github.com/Jung-woojin/CNN-From-Scratch-With-PyTorch)** | Implementing CNN architectures from scratch (AlexNet, VGG, ResNet, EfficientNet, MobileNet) | 🔍 15+ models |
 | **[ConvNeXt](https://github.com/Jung-woojin/ConvNeXt)** | Meta AI's ConvNeXt implementation with analysis | 🏗️ Modern CNN |
 | **[ConvNeXt-V2](https://github.com/Jung-woojin/ConvNeXt-V2)** | ConvNeXt V2: Next Generation Architecture | 🚀 SOTA |
