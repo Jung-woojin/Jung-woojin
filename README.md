@@ -124,8 +124,7 @@
 
 ## 📫 Connect with Me
 
- [![Email](https://img.shields.io/badge/Email-wojin010629@gmail.com-2A629F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wojin010629@gmail.com 
- )     
+   **Email:** wojin010629@gmail.com         
 
 
 ---
