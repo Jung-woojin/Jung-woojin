@@ -9,42 +9,43 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Repository Portfolio Map
 
-### 🎯 Object Detection
+### 🧩 Core Repositories (Active + Signature)
 
-| Project | Description | Stats |
+| Repository | Role | Current Direction |
 |:---|:---|:---|
-| **[object-detection-notes](https://github.com/Jung-woojin/object-detection-notes)** | Complete notes on object detection: YOLO series, DETR variants, IoU variants, Loss functions | 📚 5 repos |
-| **[YOLOv8-detailed-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/yolov8-detailed-analysis.md)** | Deep dive into YOLOv8 architecture and optimization | 🚀 One-stage |
-| **[DETR-family-analysis](https://github.com/Jung-woojin/object-detection-notes/blob/main/detr-family-analysis.md)** | Comprehensive analysis of DETR, DINO, RT-DETR | 🧠 Transformer |
+| **[computer-vision-compendium](https://github.com/Jung-woojin/computer-vision-compendium)** | Master CV knowledge base | Unified CV roadmap and references |
+| **[object-detection-notes](https://github.com/Jung-woojin/object-detection-notes)** | Detection-first core docs | YOLO/DETR family deep notes |
+| **[cvpr-research-trends-2024-2025](https://github.com/Jung-woojin/cvpr-research-trends-2024-2025)** | Trend analytics pipeline | 2024+ CVPR/ICCV/ECCV mapping |
+| **[computer-vision-research](https://github.com/Jung-woojin/computer-vision-research)** | Research strategy repo | Long-form trend report and planning |
+| **[OVD_study](https://github.com/Jung-woojin/OVD_study)** | Open-vocabulary detection study | OVD paper reading and method taxonomy |
+| **[signals-and-cv](https://github.com/Jung-woojin/signals-and-cv)** | Signal-to-CV bridge | Frequency-domain insights for CV |
+| **[CNN-receptive-field](https://github.com/Jung-woojin/CNN-receptive-field)** | ERF-focused research notes | Receptive field theory and experiments |
+| **[CNN-From-Scratch-With-PyTorch](https://github.com/Jung-woojin/CNN-From-Scratch-With-PyTorch)** | Implementation lab | End-to-end CNN architecture coding |
+| **[convolution_filter](https://github.com/Jung-woojin/convolution_filter)** | Custom filter experiments | Signal-aware convolution design |
+| **[cv_algebra](https://github.com/Jung-woojin/cv_algebra)** | Math backbone for CV | Linear algebra for vision intuition |
 
-### 🧠 Deep Learning Architectures
+### 🔧 Support Repositories (Math / System / Profile)
 
-| Project | Description | Focus |
+| Repository | Role | Notes |
 |:---|:---|:---|
-| **[CNN-From-Scratch-With-PyTorch](https://github.com/Jung-woojin/CNN-From-Scratch-With-PyTorch)** | Implementing CNN architectures from scratch (AlexNet, VGG, ResNet, EfficientNet, MobileNet) | 🔍 15+ models |
-| **[ConvNeXt](https://github.com/Jung-woojin/ConvNeXt)** | Meta AI's ConvNeXt implementation with analysis | 🏗️ Modern CNN |
-| **[ConvNeXt-V2](https://github.com/Jung-woojin/ConvNeXt-V2)** | ConvNeXt V2: Next Generation Architecture | 🚀 SOTA |
-| **[signal-aware-convolutions](https://github.com/Jung-woojin/Convolution-Filter)** | Signal processing-based convolution filters (Wavelet, Dilated, Multi-rate) | 📡 Filters |
+| **[essential-mathematics-for-ai](https://github.com/Jung-woojin/essential-mathematics-for-ai)** | AI math handbook | Mathematical foundations and examples |
+| **[signals-and-systems](https://github.com/Jung-woojin/signals-and-systems)** | Signal theory reference | Fourier, sampling, LTI, Z-transform |
+| **[algebra](https://github.com/Jung-woojin/algebra)** | Formula quick reference | Compact linear algebra sheet |
+| **[manim-theory-lab](https://github.com/Jung-woojin/manim-theory-lab)** | Visual education content | Concept animations with Manim |
+| **[top-cvpr-2025-papers](https://github.com/Jung-woojin/top-cvpr-2025-papers)** | Paper curation | CVPR 2025 highlights |
+| **[top-cvpr-2024-papers](https://github.com/Jung-woojin/top-cvpr-2024-papers)** | Paper curation | CVPR 2024 highlights |
+| **[CNN_Algorithm](https://github.com/Jung-woojin/CNN_Algorithm)** | CNN utility sandbox | Algorithm snippets and experiments |
+| **[Jung-woojin](https://github.com/Jung-woojin/Jung-woojin)** | Profile hub | Portfolio and contact entry point |
 
-### 📊 Signal Processing & Math
+### 🗃️ Archive / Legacy Repositories
 
-| Project | Description | Application |
-|:---|:---|:---|
-| **[manim-theory-lab](https://github.com/Jung-woojin/manim-theory-lab)** | Mathematical modeling for DL and signal processing with Manim animations | 🎬 Visualization |
-| **[signals-and-systems](https://github.com/Jung-woojin/signals-and-systems)** | Complete guide to Fourier transform, sampling, LTI systems, Z-transform | 📡 Theory |
-| **[signals-and-cv](https://github.com/Jung-woojin/signals-and-cv)** | Signal processing concepts connected to computer vision | 🔗 Connection |
-| **[essential-mathematics-for-ai](https://github.com/Jung-woojin/essential-mathematics-for-ai)** | Code implementations from "Mathematics for AI" textbook | 📐 Math foundations |
-| **[algebra](https://github.com/Jung-woojin/algebra)** | Linear algebra formulas and applications | 🔢 Math |
-
-### 📚 Research Trends & Papers
-
-| Project | Description |
-|:---|:---|
-| **[top-cvpr-2024-papers](https://github.com/Jung-woojin/top-cvpr-2024-papers)** | Curated collection of CVPR 2024 papers with summaries and insights | 📄 2024 |
-| **[top-cvpr-2025-papers](https://github.com/Jung-woojin/top-cvpr-2025-papers)** | Latest CVPR 2025 paper analysis and trends | 🔥 2025 |
-| **[cvpr-research-trends-2024-2025](https://github.com/Jung-woojin/cvpr-research-trends-2024-2025)** | Computer vision research trends: MLLM, Diffusion, 3D Vision | 📊 Trends |
+- **[ultralytics](https://github.com/Jung-woojin/ultralytics)** (fork sync track)
+- **[ConvNeXt-V2](https://github.com/Jung-woojin/ConvNeXt-V2)** (legacy architecture study)
+- **[nlp-with-transformers](https://github.com/Jung-woojin/nlp-with-transformers)** (past NLP exploration)
+- **[Pytorch](https://github.com/Jung-woojin/Pytorch)** (early learning-stage repo)
+- **[ConvNeXt](https://github.com/Jung-woojin/ConvNeXt)** (initial ConvNeXt experiments)
 
 ---
 
@@ -107,16 +108,16 @@
 <div align="left">
 
 **Repository Overview**
-- 🔬 **17+ Repositories** covering CV, DL, Signal Processing
-- 📚 **Object Detection Notes**: Comprehensive notes on YOLO, DETR
-- 🎬 **Manim Lab**: Mathematical visualization
-- 📊 **Research Trends**: CVPR 2024-2025 analysis
+- 🔬 **23 Repositories** total (Core 10 / Support 8 / Archive 5)
+- 📚 **Core Focus**: Detection, CV trends, signal-aware CNN research
+- 🧠 **Math Backbone**: Algebra + Signals + AI mathematics references
+- 📊 **Research Direction**: 2024+ CVPR/ICCV/ECCV trend-driven planning
 
 **Key Contributions**
-- Complete IoU variants documentation (GIoU, DIoU, CIoU, SIoU)
-- Loss function analysis for all major detection models
-- CNN implementations from scratch
-- Signal-processing-based convolution filters
+- Structured object detection documentation (YOLO, DETR, IoU, losses)
+- End-to-end CNN implementations and receptive field analysis
+- Signal-processing-guided vision research notes
+- Cross-venue computer vision trend analysis pipeline
 
 </div>
 
@@ -134,15 +135,15 @@
 <div align="left">
 
 **Recent Updates**
-- 📝 Added complete IoU variants documentation
-- 📝 Added loss function analysis for all object detection models
-- 📝 Published CVPR 2025 paper analysis
-- 📝 Implemented ConvNeXt V2 with detailed analysis
+- 📝 Added computer-vision-compendium major update
+- 📝 Expanded ERF-focused CNN research guide
+- 📝 Added Open-Vocabulary Detection detailed study notes
+- 📝 Updated CVPR/ICCV/ECCV trend-analysis repositories
 
 **Featured Work**
-- 🏆 **Object Detection Notes**: Most comprehensive resource on YOLO & DETR
-- 🧠 **CNN-From-Scratch**: 15+ architectures implemented from scratch
-- 📡 **Signal-Aware Convolutions**: Innovative convolution design
+- 🏆 **Detection + OVD**: practical and research-oriented detection stack
+- 🧠 **CNN + ERF**: architecture implementation plus receptive field analysis
+- 📡 **Signals + CV**: signal theory connected directly to vision models
 
 </div>
 
